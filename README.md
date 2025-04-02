@@ -14,4 +14,4 @@ In order to properly select the test database, the following line must be used i
 ## Query 2
 ###### *"Find all movies after year 2014 with imdb rating greater than 9."*
 ![Query2.png](Query2.png)
-![Movie2.png](Movie2.png)
+![Movie2.PNG](Movie2.PNG)
